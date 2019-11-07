@@ -1,0 +1,390 @@
+[14-Jul-2019 17:58:58 Asia/Jakarta] PHP Deprecated:  Function ereg() is deprecated in /home/ozjyuslt/tools.insideheartz.id/fb/confirm.php on line 22
+[14-Jul-2019 17:59:01 Asia/Jakarta] PHP Deprecated:  Function ereg() is deprecated in /home/ozjyuslt/tools.insideheartz.id/fb/confirm.php on line 22
+[14-Jul-2019 17:59:42 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 17:59:42 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 17:59:42 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 17:59:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 17:59:43 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 17:59:43 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 17:59:43 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 17:59:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:00:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:35 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 18:17:35 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:35 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 18:17:36 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:36 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 18:17:52 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[14-Jul-2019 18:18:17 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[14-Jul-2019 19:00:41 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[14-Jul-2019 19:00:41 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[14-Jul-2019 19:00:41 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:01:04 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[14-Jul-2019 19:01:04 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[14-Jul-2019 19:01:05 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:01:09 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:13:24 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 19:13:24 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[14-Jul-2019 19:13:52 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 19:13:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[14-Jul-2019 19:43:31 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 19:43:31 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:43:31 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:43:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:44:06 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[14-Jul-2019 19:50:21 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 19:50:21 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:50:21 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:50:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:52:26 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 19:52:26 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:52:26 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:52:26 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 19:56:30 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 19:56:30 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[14-Jul-2019 19:56:34 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[14-Jul-2019 19:56:34 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[14-Jul-2019 19:56:34 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:57:11 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:57:25 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:58:15 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 19:59:00 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 20:10:04 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[14-Jul-2019 20:10:04 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[14-Jul-2019 20:10:05 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 20:10:12 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 20:10:12 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[14-Jul-2019 20:33:18 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[14-Jul-2019 20:33:18 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 20:33:18 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 20:33:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[14-Jul-2019 21:38:16 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[14-Jul-2019 21:38:16 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[14-Jul-2019 21:38:23 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[14-Jul-2019 21:38:23 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[14-Jul-2019 21:38:23 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[14-Jul-2019 22:53:15 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 22:53:16 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[14-Jul-2019 22:53:33 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 22:53:33 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[14-Jul-2019 23:35:23 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[14-Jul-2019 23:35:23 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[15-Jul-2019 00:15:11 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[15-Jul-2019 00:15:11 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[15-Jul-2019 00:15:11 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 00:17:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 00:28:34 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token={&quot;session_key&quot;:&quot;5.B-CB7_ziQd-BrA.1563125082.38-100028684807950&quot;,&quot;uid&quot;:100028684807950,&quot;secret&quot;:&quot;d1df43a04c3362bbe108729db3e98547&quot;,&quot;access_token&quot;:&quot;EAAAAUaZA8jlABAA1KEwTe9nZCDF1seQ2u0l8hLL3lwzRZCutIEKv8DJmpUaBz0Vfy1JHkN6kcHX4tAqXpIm1sS3vDTnOhGxIntNdJ5SJDyZBu6ZBbwC4ggRdPVgVlZCiZCVbAcPjV0T79LFi175GBD0rEiBROAJGR7YaMoLZCqss1UKQ2ud07bOV&quot;,&quot;machine_id&quot;:&quot;WmUrXbqNzd5W2XcsiMQRTfHL&quot;,&quot;session_cookies&quot;:[{&quot;name&quot;:&quot;c_user&quot;,&quot;value&quot;:&quot;100028684807950&quot;,&quot;expires&quot;:&quot;Mon, 13 Jul 2020 17:24:42 GMT&quot;,&quot;expires_timestamp&quot;:1594661082,&quot;domain&quot;:&quot;.facebook.com&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;secure&quot;:true},{&quot;name&quot;:&quot;xs&quot;,&quot;value&quot;:&quot;38:B-CB7_ziQd-BrA:2:1563125082:173:3423&quot;,&quot;expires&quot;:&quot;Mon, 13 Jul 2020 17:24:42 GMT&quot;,&quot;expi in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[15-Jul-2019 00:28:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[15-Jul-2019 00:29:01 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[15-Jul-2019 00:29:01 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[15-Jul-2019 00:29:02 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 00:29:14 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 00:29:38 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 02:03:34 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/hapusteman.php on line 38
+[15-Jul-2019 02:05:54 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[15-Jul-2019 02:41:57 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[15-Jul-2019 02:41:57 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[15-Jul-2019 02:41:57 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[15-Jul-2019 02:41:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[15-Jul-2019 02:55:12 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[15-Jul-2019 02:55:13 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[15-Jul-2019 03:23:13 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[15-Jul-2019 03:36:29 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/hapusteman.php on line 38
+[15-Jul-2019 10:43:28 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[15-Jul-2019 10:43:28 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[15-Jul-2019 10:43:28 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 10:43:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 10:43:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 10:43:59 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[15-Jul-2019 10:43:59 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[15-Jul-2019 10:43:59 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 10:59:08 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[15-Jul-2019 10:59:09 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[15-Jul-2019 10:59:24 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[15-Jul-2019 10:59:31 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[15-Jul-2019 10:59:31 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[15-Jul-2019 10:59:31 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 10:59:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 11:00:01 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 26
+[15-Jul-2019 11:00:01 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 27
+[15-Jul-2019 11:00:01 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$access_token in /home/ozjyuslt/tools.insideheartz.id/fb/token.php on line 30
+[15-Jul-2019 11:25:21 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[15-Jul-2019 11:25:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[15-Jul-2019 11:27:00 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[15-Jul-2019 12:33:35 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[15-Jul-2019 12:33:35 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[15-Jul-2019 18:18:30 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[15-Jul-2019 18:18:30 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[16-Jul-2019 12:49:40 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[16-Jul-2019 12:49:41 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[16-Jul-2019 12:50:48 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[16-Jul-2019 12:50:49 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[16-Jul-2019 12:51:05 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[16-Jul-2019 12:51:06 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[16-Jul-2019 16:12:57 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[16-Jul-2019 16:12:58 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[16-Jul-2019 17:30:53 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[16-Jul-2019 17:30:53 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 17:30:53 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 17:30:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 17:31:20 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[16-Jul-2019 17:31:20 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 17:31:20 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 17:31:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 18:14:32 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[16-Jul-2019 18:14:32 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 18:14:32 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 18:14:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:03:25 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[16-Jul-2019 22:03:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[16-Jul-2019 22:03:28 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[16-Jul-2019 22:03:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[16-Jul-2019 22:03:34 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[16-Jul-2019 22:03:34 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:03:34 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:03:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:03:35 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[16-Jul-2019 22:03:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[16-Jul-2019 22:03:38 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[16-Jul-2019 22:03:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[16-Jul-2019 22:03:42 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[16-Jul-2019 22:03:42 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:03:42 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:03:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[16-Jul-2019 22:32:18 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[16-Jul-2019 22:32:18 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[16-Jul-2019 23:13:17 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[16-Jul-2019 23:13:17 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[17-Jul-2019 01:34:12 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/hapusteman.php on line 38
+[17-Jul-2019 03:05:21 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[17-Jul-2019 03:05:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[17-Jul-2019 07:54:15 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[17-Jul-2019 10:08:25 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[17-Jul-2019 21:05:42 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[17-Jul-2019 21:05:42 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:05:42 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:05:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:06:45 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[17-Jul-2019 21:06:45 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:06:45 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:06:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:39:47 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[17-Jul-2019 21:39:47 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:39:47 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[17-Jul-2019 21:39:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 01:46:02 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 01:46:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[18-Jul-2019 01:46:06 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 01:46:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[18-Jul-2019 01:46:16 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[18-Jul-2019 01:46:16 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 01:46:16 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 01:46:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 01:46:19 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 01:46:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[18-Jul-2019 01:46:22 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 01:46:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[18-Jul-2019 01:46:27 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[18-Jul-2019 01:46:27 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 01:46:27 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 01:46:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[18-Jul-2019 22:49:18 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token={&quot;session_key&quot;:&quot;5.DwWE3u4-Noma0A.1563464814.34-100011443715986&quot;,&quot;uid&quot;:100011443715986,&quot;secret&quot;:&quot;51910f9bf0429017af6cd675af5e9267&quot;,&quot;access_token&quot;:&quot;EAAAAUaZA8jlABAMAsKKxFT8hEbvnZBTD6GKJN9w4OwGncsal2OQxomSGb8YnjM12k7FVddp2XxP8qltobRhstb7yTJBuHmSwFl0uSgkAOKbxc8EHBy9OQHeMZCGPamHR3QATA6rzXROlEVfBtEgkwqPYgZAQ6fYJqQZBRqmY8ZCoudi8lKPKEq&quot;,&quot;machine_id&quot;:&quot;bpQwXY2rJgQxvtZ_NvOVesdB&quot;,&quot;session_cookies&quot;:[{&quot;name&quot;:&quot;c_user&quot;,&quot;value&quot;:&quot;100011443715986&quot;,&quot;expires&quot;:&quot;Fri, 17 Jul 2020 15:46:54 GMT&quot;,&quot;expires_timestamp&quot;:1595000814,&quot;domain&quot;:&quot;.facebook.com&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;secure&quot;:true},{&quot;name&quot;:&quot;xs&quot;,&quot;value&quot;:&quot;34:DwWE3u4-Noma0A:2:1563464814:7221:3254&quot;,&quot;expires&quot;:&quot;Fri, 17 Jul 2020 15:46:54 GMT&quot;,&quot;expir in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 22:49:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[18-Jul-2019 22:49:52 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token={&quot;session_key&quot;:&quot;5.DwWE3u4-Noma0A.1563464814.34-100011443715986&quot;,&quot;uid&quot;:100011443715986,&quot;secret&quot;:&quot;51910f9bf0429017af6cd675af5e9267&quot;,&quot;access_token&quot;:&quot;EAAAAUaZA8jlABAMAsKKxFT8hEbvnZBTD6GKJN9w4OwGncsal2OQxomSGb8YnjM12k7FVddp2XxP8qltobRhstb7yTJBuHmSwFl0uSgkAOKbxc8EHBy9OQHeMZCGPamHR3QATA6rzXROlEVfBtEgkwqPYgZAQ6fYJqQZBRqmY8ZCoudi8lKPKEq&quot;,&quot;machine_id&quot;:&quot;bpQwXY2rJgQxvtZ_NvOVesdB&quot;,&quot;session_cookies&quot;:[{&quot;name&quot;:&quot;c_user&quot;,&quot;value&quot;:&quot;100011443715986&quot;,&quot;expires&quot;:&quot;Fri, 17 Jul 2020 15:46:54 GMT&quot;,&quot;expires_timestamp&quot;:1595000814,&quot;domain&quot;:&quot;.facebook.com&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;secure&quot;:true},{&quot;name&quot;:&quot;xs&quot;,&quot;value&quot;:&quot;34:DwWE3u4-Noma0A:2:1563464814:7221:3254&quot;,&quot;expires&quot;:&quot;Fri, 17 Jul 2020 15:46:54 GMT&quot;,&quot;expir in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 22:49:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[18-Jul-2019 22:50:19 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token={&quot;session_key&quot;:&quot;5.DwWE3u4-Noma0A.1563464814.34-100011443715986&quot;,&quot;uid&quot;:100011443715986,&quot;secret&quot;:&quot;51910f9bf0429017af6cd675af5e9267&quot;,&quot;access_token&quot;:&quot;EAAAAUaZA8jlABAMAsKKxFT8hEbvnZBTD6GKJN9w4OwGncsal2OQxomSGb8YnjM12k7FVddp2XxP8qltobRhstb7yTJBuHmSwFl0uSgkAOKbxc8EHBy9OQHeMZCGPamHR3QATA6rzXROlEVfBtEgkwqPYgZAQ6fYJqQZBRqmY8ZCoudi8lKPKEq&quot;,&quot;machine_id&quot;:&quot;bpQwXY2rJgQxvtZ_NvOVesdB&quot;,&quot;session_cookies&quot;:[{&quot;name&quot;:&quot;c_user&quot;,&quot;value&quot;:&quot;100011443715986&quot;,&quot;expires&quot;:&quot;Fri, 17 Jul 2020 15:46:54 GMT&quot;,&quot;expires_timestamp&quot;:1595000814,&quot;domain&quot;:&quot;.facebook.com&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;secure&quot;:true},{&quot;name&quot;:&quot;xs&quot;,&quot;value&quot;:&quot;34:DwWE3u4-Noma0A:2:1563464814:7221:3254&quot;,&quot;expires&quot;:&quot;Fri, 17 Jul 2020 15:46:54 GMT&quot;,&quot;expir in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[18-Jul-2019 22:50:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 04:11:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 14:37:29 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[19-Jul-2019 14:37:29 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 14:37:29 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 14:37:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 17:52:52 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/1658138369/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:53 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000017775803/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:54 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000127950610/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:54 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000137215778/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:55 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000166798407/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:56 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000400302075/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:57 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000593908602/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:57 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000700991103/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:58 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000817718550/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:59 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000854095349/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:52:59 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100000894089206/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:00 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001222952420/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:01 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001328539005/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:01 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001512302245/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:02 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001562149878/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:03 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001616953223/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:04 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001647894775/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:04 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001805849007/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:05 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001908957117/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:06 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001922581300/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:07 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001966248839/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:07 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001994037733/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:08 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100001999911111/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:09 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/100002029702900/feed?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD&amp;limit=1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 43
+[19-Jul-2019 17:53:47 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 17:53:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 18:05:06 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 18:05:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 18:09:54 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 18:09:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 20:55:08 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 20:55:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 20:55:21 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 20:55:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 20:55:29 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[19-Jul-2019 20:55:29 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 20:55:29 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 20:55:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 20:55:31 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 20:55:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 20:55:38 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[19-Jul-2019 20:55:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[19-Jul-2019 20:55:56 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[19-Jul-2019 20:55:56 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 20:55:56 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 20:55:56 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[19-Jul-2019 21:53:51 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[19-Jul-2019 21:53:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[20-Jul-2019 08:51:30 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[20-Jul-2019 08:51:30 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[20-Jul-2019 08:51:51 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[20-Jul-2019 08:52:44 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[20-Jul-2019 08:52:44 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[20-Jul-2019 19:52:21 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAAAUaZA8jlABAIoTbjQJpCOF7pvR04uWSIXVvpILQ4r9Q1IyZASjUrkq1uHrVcOieew04p9srAn34IOx3RskPZBczmCgT8wgBLhZC69wn9iChEFgRP99byBGtQgcu2ioLDCQw5PTCfMfWZADJoIRPPp121BOcZC7y1DFO6bysyVYwHOLRz5ZAiZC3yYwnDVwisZD): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[20-Jul-2019 19:52:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[21-Jul-2019 11:16:12 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[21-Jul-2019 11:16:12 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:16:12 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:16:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[21-Jul-2019 11:16:51 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:16:51 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:16:51 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:17:54 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[21-Jul-2019 11:17:54 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[21-Jul-2019 11:19:49 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[21-Jul-2019 11:22:01 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[21-Jul-2019 11:22:01 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:22:01 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 11:22:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 12:14:53 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[21-Jul-2019 12:14:53 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 12:14:53 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 12:14:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[21-Jul-2019 21:11:35 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[21-Jul-2019 21:11:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[21-Jul-2019 21:11:36 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[21-Jul-2019 21:11:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[21-Jul-2019 21:11:59 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[21-Jul-2019 21:11:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[21-Jul-2019 21:12:03 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[21-Jul-2019 21:12:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[21-Jul-2019 21:13:08 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[21-Jul-2019 21:13:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[22-Jul-2019 03:09:21 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[22-Jul-2019 03:09:21 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 03:09:21 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 03:09:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 07:39:46 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[22-Jul-2019 07:39:46 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[22-Jul-2019 15:07:58 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[22-Jul-2019 15:07:58 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 15:07:58 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 15:07:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 16:54:14 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/hapusteman.php on line 38
+[22-Jul-2019 16:54:33 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/hapusteman.php on line 38
+[22-Jul-2019 19:17:13 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[22-Jul-2019 19:17:13 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 19:17:13 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 19:17:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 19:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/ozjyuslt/tools.insideheartz.id/head.php on line 8
+[22-Jul-2019 19:17:14 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 19:17:14 Asia/Jakarta] PHP Warning:  include(../system/foot.php): failed to open stream: No such file or directory in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[22-Jul-2019 19:17:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '../system/foot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/ozjyuslt/tools.insideheartz.id/fb/accept.php on line 102
+[23-Jul-2019 01:38:25 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[23-Jul-2019 01:38:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[23-Jul-2019 01:38:28 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[23-Jul-2019 01:38:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[23-Jul-2019 01:38:44 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=Mn): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[23-Jul-2019 01:38:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[23-Jul-2019 01:38:45 Asia/Jakarta] PHP Warning:  file_get_contents(https://graph.facebook.com/me/friends?access_token=EAAhgthgfhfffdrgdigdu): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 39
+[23-Jul-2019 01:38:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ozjyuslt/tools.insideheartz.id/fb/unfriend.php on line 60
+[23-Jul-2019 09:34:05 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[23-Jul-2019 09:39:22 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[23-Jul-2019 09:39:22 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[23-Jul-2019 11:14:41 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/hapusteman.php on line 38
+[23-Jul-2019 11:14:41 Asia/Jakarta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/ozjyuslt/tools.insideheartz.id/fb/statusfb.php on line 45
+[23-Jul-2019 11:14:55 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[23-Jul-2019 11:14:55 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[23-Jul-2019 13:56:06 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[23-Jul-2019 13:56:06 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37
+[23-Jul-2019 14:26:27 Asia/Jakarta] PHP Notice:  Undefined index: token in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 19
+[23-Jul-2019 14:26:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$id in /home/ozjyuslt/tools.insideheartz.id/fb/perisai.php on line 37

@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-primary fixed-top">
+      <a class="navbar-brand" href="<?=$config['host'];?>"><i class="fa fa-star"></i> <?=$config['name'];?></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="<?=$config['host'];?>"><i class="fa fa-home"></i> Dashboard</a>
+          </li>
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes"><i class="fa fa-list"></i> Dropdown <span class="caret"></span></a>
+              <div class="dropdown-menu" aria-labelledby="themes">
+                <a class="dropdown-item" href="#">List 1</a>
+                <a class="dropdown-item" href="#">List 2</a>
+              </div>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="nav-item">
+            <a class="nav-link" href="#"><i class="fa fa-sign-in"></i> Log In </a>
+          </li>
+        </ul>
+      </div>
+    </nav>

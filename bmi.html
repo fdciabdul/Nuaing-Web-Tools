@@ -1,0 +1,191 @@
+<!--Metric Calculator-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="bmicalc-Style.css"/>
+        <title>BMI Calculator</title>
+<style>
+* {
+    font-family: cursive;
+    color: white;
+}
+
+body {
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    position: absolute;
+    top: 30%;
+    left: 42%;
+    margin: -70px 0 0 -170px;
+
+}
+
+div {
+    padding-bottom: 5px;
+}
+
+div p {
+    padding-left: 40px;
+}
+
+input {
+    box-shadow: inset 1px 1px 2px #333;
+    width: 20%;
+    margin-left: 40px;
+    color: black;
+}
+
+.table {
+    position: fixed;
+    margin-left: 300px;
+    margin-top: -140px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.td {
+     padding-right: 15px;
+}
+
+.btn {
+    border-radius: 60px;
+    font-family: Arial;
+    color: black;
+    font-size: 12px;
+    background: #3498db;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+.output {
+    font-weight: bold;
+    color: #F00000;
+}
+
+#impTable {
+    position: fixed;
+    margin-left: 300px;
+    margin-top: -170px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#centrImpbtn {
+    padding-left: 70px;
+}
+
+#centrMetbtn {
+    padding-left: 75px;
+}
+
+#calcbtn {
+    padding-left: 53px;
+}
+
+#box {
+    height: 370px;
+	width: 600px;
+	border-radius: 5px;
+	border: 2px solid black;
+	background-color: #C8C8C8;
+	position: relative;
+	padding-left: 20px;
+    background: linear-gradient(#0000CC, black);
+}
+</style>
+    </head>
+    <body>
+		<div id="box">
+			<p><b>Body Mass Index<br><span style="padding-left: 25px">
+				Calculator</span></b></p>
+            
+            <a id="centrImpbtn" href="bmicalculator.html">
+                <button class="btn">Imperial</button>
+            </a>
+            <div></div>
+			
+			<div>
+				<input type="text" id="cm">cm</input>
+			</div>
+			<div>
+				<input type="text" id="kgs">kg</input>
+			</div>
+			
+			<table class="table">
+				<thead>
+					<tr>
+						<th colspan="2"><h2>BMI Categories</h2></th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="td">Underweight</td>
+						<td>&lt;18.5</td>
+					</tr>
+					<tr>
+						<td class="td">Normal Weight</td>
+						<td>18.5-24.9</td>
+					</tr>
+					<tr>
+						<td class="td">Overweight</td>
+						<td>25-29.9</td>
+					</tr>
+					<tr>
+						<td class="td">Obese</td>
+						<td>30-39.9</td>
+					</tr>
+					<tr>
+						<td class="td">Morbidly Obese</td>
+						<td>&gt;40</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<div id="calcbtn">
+				<button class="btn" onclick="bmiCalc()">Calculate BMI</button>
+			</div>
+			
+			<p style="padding-left: 60px">Your BMI is:</p>
+			<p style="padding-left: 70px" class="output" id="bmiResult"></p>
+			<!--Category output is off centered-->
+			<p style="padding-left: 60px" class="output" id="category"></p>
+    
+			<script>
+                function bmiCalc() {
+                
+                    var heightCM = document.getElementById("cm").value;
+                    var weight = document.getElementById("kgs").value;
+		
+                    bmi = ((weight / heightCM / heightCM) * 10000).toFixed(2);
+                
+                    document.getElementById("bmiResult").innerHTML = bmi;
+					
+					var undrWait = ("\(underweight\)");
+					var nrmlWait = ("\(normal weight\)");
+					var ovrWait = ("\(overweight\)");
+					var obese = ("\(obese\)");
+					var mrbdObse = ("\(morbidly obese\)");
+					
+					if (bmi < 18.5)
+						document.getElementById("category").innerHTML = undrWait;
+					if (bmi >= 18.5 && bmi <= 24.9)
+                        document.getElementById("category").innerHTML = nrmlWait;
+					if (bmi >= 24.9 && bmi <= 29.9)
+						document.getElementById("category").innerHTML = ovrWait;
+					if (bmi >= 30 && bmi <= 39.9)
+						document.getElementById("category").innerHTML = obese;
+					if (bmi >= 40)
+						document.getElementById("category").innerHTML = mrbdObse;
+                }
+            </script>
+		</div>
+    </body>
+</html>

@@ -1,0 +1,58 @@
+
+.aya_container {
+/*    background-color: #CCCCCC;
+    margin-bottom: 10px;
+    margin-top: 10px;   */
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hl_container {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 0px 10px;
+    z-index: 50;
+    direction: rtl;
+    text-align: right;
+    visibility: hidden;
+}
+
+@font-face
+{
+    font-family: 'MeQuran';
+    src: url('me_quran.ttf') format('truetype');
+}
+
+@font-face
+{
+    font-family: 'AlQalamQuran';
+    src: url('AlQalamQuran.ttf') format('truetype');
+}
+
+.aya_text {
+    position: relative;
+    top: 0px;
+    right: 0px;
+    margin: 10px;                
+    text-align: right;
+    direction: rtl;
+    font-family: 'MeQuran','Traditional Arabic','Arial', sans-serif;
+    font-size: 25px;
+    line-height: 45px;
+    word-spacing: 5px;
+}
+
+.aya_trans {
+    margin-top: 20px;
+    font-size: 13px;
+    color: #585858;
+}
+
+.hl_block {
+    background-color: rgb(255,238,64);
+    background-color: rgba(255,238,64,0.5);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}

@@ -1,0 +1,459 @@
+/* 
+    Document   : main
+    Created on : Feb 25, 2012, 4:46:36 PM
+    Author     : abrari
+    Description:
+*/
+
+/* Global setting */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100%;
+}
+
+body { 
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    height: 100%;
+    padding: 0px 3px;
+}
+
+#main-wrap {
+    background : #FFFFFF url('img/bg-dots.png') top left repeat-x;
+    margin: 0px auto;
+    padding: 0px;
+    height: 100%;
+}
+
+.bg-dots-light {
+    background : #FFFFFF url('img/bg-dots.png') top left repeat-x;
+    background-position: 0px -155px !important;
+}
+
+#main {
+    width: 720px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+label {
+    cursor: pointer;
+}
+
+/* Home page */
+
+#main-logo {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#main-search-form #search-form-container {
+    margin: 0px auto;
+    width : 620px;
+    background-color: #E5E5E5;
+    padding: 10px;
+    border-radius : 10px;
+    -moz-border-radius : 10px;
+    -webkit-border-radius : 10px;
+    text-align: center;
+    position: relative;
+}
+
+#main-search-form #search-form-container input,
+#srp-search-form #search-form-container input {
+    display: inline-block;
+    height: 35px !important;
+    overflow: hidden;
+    border: 1px solid #AAAAAA;
+    font-size: 20px;
+    font-family: 'Arial', sans-serif;
+    outline : none;
+    line-height: normal !important;
+    vertical-align: top;
+}
+
+#main-search-form #search-box {
+    width: 510px;
+    background: #FFFFFF url('img/input-bg.png') 0px 0px repeat-x;
+    border-right: none !important;
+    border-radius : 6px 0px 0px 6px;
+    -moz-border-radius : 6px 0px 0px 6px;
+    -webkit-border-radius : 6px 0px 0px 6px;
+    padding: 0px;
+    padding-left: 5px;
+    color : #000000;
+}
+
+#main-search-form #search-box.empty,
+#srp-search-form #search-box.empty {
+    color : #CCCCCC;
+}
+
+#search-submit {
+    border-bottom-color: #666666 !important;
+    width: 100px;
+    background: #327e00 url('img/input-bg.png') 0px -51px repeat-x;
+    border-radius : 0px 6px 6px 0px;
+    -moz-border-radius : 0px 6px 6px 0px;
+    -webkit-border-radius : 0px 6px 6px 0px;
+    padding: 0px;
+    font-weight: bold;
+    color : #FFFFFF;
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -ms-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#search-options-container {
+    margin: 0px auto;
+    width : 610px;
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+}
+
+#search-options-container .search-option {
+    background-color: #E5E5E5;
+    border: none;
+    font-size: 13px;
+    font-family: 'Arial', sans-serif;
+    padding: 3px 7px;
+    margin: 0px;
+    margin-right: 3px;
+    color: #803300;
+    border-radius : 0px 0px 5px 5px;
+    -moz-border-radius : 0px 0px 5px 5px;
+    -webkit-border-radius : 0px 0px 5px 5px;
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -ms-box-sizing: content-box; 
+    box-sizing: content-box;   
+    height: 23px;
+    vertical-align: top;
+    -webkit-transition: all .1s ease-in;
+    -moz-transition: all .1s ease-in;
+    -o-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+}
+
+#search-options-container .search-option:hover {
+    background-color: #CCCCCC;
+}
+
+#search-checkboxes {
+    background-color: #E5E5E5;
+    border: none;
+    font-size: 13px;
+    font-family: 'Arial', sans-serif;
+    padding: 3px 7px;
+    margin: 0px;
+    margin-right: 3px;
+    color: #803300;
+    border-radius : 0px 0px 5px 5px;
+    -moz-border-radius : 0px 0px 5px 5px;
+    -webkit-border-radius : 0px 0px 5px 5px;
+    height: 23px;
+    vertical-align: top;
+    display: none;
+}
+
+#search-help-box {
+    margin: 0px auto;
+    width : 590px;
+    text-align: left;
+    position: relative;
+    font-size: 13px;
+    padding: 10px;
+    border: 1px solid #BBBBBB;
+    margin-top: 5px;
+    display: none;
+    background-color: #fff9d7;
+    box-shadow : 1px 2px 5px #CCCCCC;
+    -moz-box-shadow : 1px 2px 5px #CCCCCC;
+    -webkit-box-shadow : 1px 2px 5px #CCCCCC;
+}
+
+/* Search result page */
+
+#srp-search-form #search-form-container input {
+    height: 30px !important;
+    font-size: 18px;
+}
+
+#srp-search-form {
+    float: left;
+    display: inline-block;
+    width: 520px;
+}
+
+#srp-search-form #search-form-container {
+    width : 520px;
+    background-color: #E5E5E5;
+    padding: 10px;
+    border-radius : 10px;
+    -moz-border-radius : 10px;
+    -webkit-border-radius : 10px;
+    text-align: left;
+    position: relative;
+}
+
+#srp-search-form #search-box {
+    width: 410px;
+    background: #FFFFFF url('img/input-bg.png') 0px 0px repeat-x;
+    border-right: none !important;
+    border-radius : 6px 0px 0px 6px;
+    -moz-border-radius : 6px 0px 0px 6px;
+    -webkit-border-radius : 6px 0px 0px 6px;
+    padding: 0px;
+    padding-left: 5px;
+    color : #000000;
+}
+
+
+#search-form-container input:hover,
+#search-form-container input:focus {
+    border-color: #666666 !important;
+}
+
+#srp-search-form #search-options-container {
+    padding-left: 15px;
+}
+
+#srp-header {
+    border-bottom: 1px dashed #CCCCCC;
+    padding: 10px;
+    margin-top: -30px;
+}
+
+#srp-header h3 {
+    font-size: 20px;
+    color: #803300;
+    margin: 0px;
+    float: left;
+}
+
+#srp-header #hl-switch {
+    float: right;
+}
+
+.search-result-block {
+    padding: 10px;
+    background-color: #F4F4F4;
+}
+
+.alt {
+    background-color: #EAEAEA;
+}
+
+.sura-name {
+    font-weight: bold;
+    color: #666666;
+    display: inline-block;
+}
+
+.sura-name .num {
+    font-size: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.sura-link, .generalbtn {
+    font-size: 9px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #666666;
+    float: right;
+    padding: 2px 5px;
+    height: 13px;
+}
+
+.sura-link .icon {
+    vertical-align: middle;
+    background-image: url('quran.png');
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+}
+
+.aya-tools {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.rel-bar {
+    float: right;
+    display: inline-block;
+    width: 170px;
+    font-size: 10px;
+    margin-top: 5px;
+    overflow: hidden;
+    color: #666666;
+}
+
+.rel-bar .relevance {
+    display: inline-block;
+    width: 30px;
+    overflow: hidden;
+    text-align: right;
+    padding-right: 3px;
+    vertical-align: middle;    
+}
+
+.rel-bar .relevance-bar {
+    display: inline-block;
+    width: 135px;
+    height: 4px;
+    background-color: #CCCCCC;
+    /*vertical-align: middle;*/
+}
+
+.rel-bar .relevance-bar .fill {
+    /*display: inline-block;*/
+    height: 4px;
+    background-color: #327e00;
+}
+
+.pager {
+    background-color: #CCCCCC; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    text-align: center;
+    -webkit-border-radius : 0px 0px 10px 10px;
+    -moz-border-radius : 0px 0px 10px 10px;
+    border-radius : 0px 0px 10px 10px;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    width: 700px;
+    padding: 20px 10px;
+    border-top: 1px dashed #CCCCCC;
+    background-color: #FFFFFF;
+}
+
+#footer #links {
+    color: #803300;
+}
+
+#footer #links a {
+    color: #803300;
+    text-decoration: none;
+}
+
+#footer #links a:hover {
+    text-decoration: underline;
+}
+
+#footer #copyleft {
+    font-size: 13px;
+    color: #666666;
+    margin-top: 5px;
+}
+
+/* Header */
+
+#header {
+    padding: 20px 10px;
+    border-bottom: 1px dashed #CCCCCC;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+#header #logo-small {
+    float: left;
+    margin-right: 30px;
+    vertical-align: middle;
+}
+
+#header #title {
+    font-size: 30px;
+    color: #803300;
+    vertical-align: middle;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.graybtn {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-webkit-border-top-left-radius:4px;
+	-moz-border-radius-topleft:4px;
+	border-top-left-radius:4px;
+	-webkit-border-top-right-radius:4px;
+	-moz-border-radius-topright:4px;
+	border-top-right-radius:4px;
+	-webkit-border-bottom-right-radius:4px;
+	-moz-border-radius-bottomright:4px;
+	border-bottom-right-radius:4px;
+	-webkit-border-bottom-left-radius:4px;
+	-moz-border-radius-bottomleft:4px;
+	border-bottom-left-radius:4px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	text-align:center;
+    outline: none;
+}
+.graybtn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.graybtn:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 100;
+  background-color: rgb(0,0,0);  
+  background-color: rgba(0,0,0,0.5);
+}
+
+.modalDialog {
+	width: 680px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	background: #F4F4F4;
+    box-shadow: 3px 3px 30px 5px rgba(0,0,0,0.3);
+}
+
+.modalDialog textarea {
+    width: 99%;
+    height: 110px;
+    border: 1px solid #AAAAAA;
+    border-radius : 6px;
+    -moz-border-radius : 6px;
+    -webkit-border-radius : 6px;
+    resize: none;
+    outline: none;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    padding: 10px 5px;
+}
